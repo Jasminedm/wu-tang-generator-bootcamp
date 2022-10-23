@@ -1,0 +1,13 @@
+body{
+    background-image: url('../images/RHFs\ \(1\).gif');
+    background-size: cover;
+}
+section{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+li{
+    list-style-type: none;
+}

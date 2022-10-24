@@ -1,22 +1,15 @@
-# 🎤 Week08 Bootcamp2019a Project: Wu-Tang Name Generator
+#  ###🎤 Wu-Tang Name Generator
+#### A fun Wu-Tang name generator anyone can try!<hr>https://jasminedm-wutang-name-generator.netlify.app/
+![A fun Wu-Tang name generator anyone can try!<hr>https://jasminedm-wutang-name-generator.netlify.app/](https://i.imgur.com/d7MZFCI.jpg)
 
-### Goal: Create a Wu-Tang Clan name generator. Present the user with 5 survey questions and based on those answers randomly generate their name. The name doesn't have to be exact names, but Wu-Tang sounding-ish names. Ex: Childish Gambino (who actually got his name from a Wu-Tang name generator).
+This Wu-Tang name generator is inspired by the one Childish Gambino got his name from. This generator allows a user to answer 5 questions and based on their answers they see a name Wu-Tang like name generated for them on the dom. 
+<hr>
+I enjoyed creating this generator. The tricky part was how to base the generated names off which answers a user gives. I used a mode function to help solve this problem!
 
-### How to submit your code for review:
+Skills:  JS / HTML / CSS/ 
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+- 🔭 I’m currently working on this page. 
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+
+
